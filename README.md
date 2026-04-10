@@ -12,7 +12,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 
 # 2. Load Dataset
 # 👉 Replace with your actual file name
-df = pd.read_csv("crop_data.csv")
+df = pd.read_csv(""C:\Users\sures\OneDrive\Desktop\Crop_data.csv"")
 
 print("Dataset Preview:")
 print(df.head())
